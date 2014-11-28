@@ -18,7 +18,7 @@ add to the console.php:
   ...
   'controllerMap' => [
     'migrate' => [
-      'class' => 'sifrolab\migrate\MigrateController',
+      'class' => 'sifrolab\migrator\MigrateController',
       'additionalPaths' => [
         [
           'name' => 'First Migration Path Name',
