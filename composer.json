@@ -20,7 +20,7 @@
     "yiisoft/yii2": "*"
   },
   "autoload": {
-    "psr-2": {
+    "psr-4": {
       "sifrolab\\migrator\\": ""
     }
   }
