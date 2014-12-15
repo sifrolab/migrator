@@ -23,7 +23,6 @@ class MigrateController extends BaseMigrateController
     public $additionalPaths = [];
 
     /**
-     * TODO: Need make directory for additional paths if is not created yet
      * @inheritdoc
      */
     public function beforeAction($action)
